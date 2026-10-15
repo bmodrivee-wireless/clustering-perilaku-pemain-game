@@ -92,6 +92,7 @@ Interpretasi akhir perlu disesuaikan dengan hasil aktual yang diperoleh ketika n
 
 ## Author
 
-Nama: [Nama Kamu]  
+Nama: Bimo Tegar Aryanto
+NIM: 241011403102
 Mata Kuliah: Machine Learning
 
